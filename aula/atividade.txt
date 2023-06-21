@@ -1,0 +1,17 @@
+Git init: Inicia um novo repositório Git na pasta atual, criando um novo diretório .git e preparando-o para controle de versão.
+Git config: Permite configurar o Git. Com este comando, você pode definir suas informações de usuário, como nome e email, além de outras configurações, como opções de formatação de log.
+Git status: Mostra o estado atual do seu repositório Git.
+Git add: Adiciona arquivos ao índice do Git (também conhecido como área de preparação).
+Git commit: Registra as mudanças feitas no repositório.
+Git branch: Mostra as branches existentes no repositório. 
+Git checkout: Permite alternar entre diferentes branches ou restaurar arquivos para uma versão anterior.
+Git merge: Combina as alterações de uma branch com outra.
+Git remote: Mostra os repositórios remotos atualmente configurados.
+Git push: Envia as alterações locais para um repositório remoto. 
+Git pull: Atualiza o repositório local com as alterações mais recentes do repositório remoto.
+Git clone: Cria uma cópia local de um repositório remoto.
+Git reset: Permite redefinir o HEAD e o estado do repositório para um commit específico.
+Git log: Mostra o histórico de commits do repositório.
+Git diff: Mostra as diferenças entre commits, branches ou arquivos. 
+
+
